@@ -1,7 +1,7 @@
 # Fala aí galera 👋
 ### Me chamo Nando Contato
 
-• 💻 Trabalho como Diretor de Arte senior em publicidade.
+• 💻 Trabalho como Diretor de Arte Senior em Publicidade.
 
 • 🧠 Sou graduado em Publicidade pela eca-USP e pós graduado em Neurociências e Ciência de dados.
 
