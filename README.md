@@ -7,4 +7,4 @@
 
 • 🐍 Estou estudando Python e trazendo os dados pro meu dia-a-dia.
 
-• 👀 Tenho interesse em modelos estatísticos, recomendação, análise de sentimentos, aprendizado de máquin, inteligência artificial e tudo o que me ajude a entender o comportamento humano.
+• 👀 Tenho interesse em modelos estatísticos, recomendação, análise de sentimentos, aprendizado de máquina, inteligência artificial e tudo o que me ajude a entender o comportamento humano.
