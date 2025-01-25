@@ -26,4 +26,5 @@
   <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">
   <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
   <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
+  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
 </div>
