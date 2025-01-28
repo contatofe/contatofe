@@ -14,7 +14,7 @@
 <div>
   <a ref = https://github.com/contatofe>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=contatofe&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contatofe&hide_progress=false&card_width=400&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contatofe&hide_progress=false&card_width=300&layout=compact">
 </div>
 
 <div style = "display: inline_block"><br>
