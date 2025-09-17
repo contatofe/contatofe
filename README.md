@@ -3,7 +3,7 @@
 
 • 💻 Trabalho como Diretor de Arte Senior em Publicidade.
 
-• 🧠 Sou graduado em Publicidade pela eca-USP e pós graduado em Neurociências e Ciência de dados.
+• 🧠 Sou graduado em Publicidade pela USP, mestrando em Neurociências pela USP, além de pós graduado (Lato Sensu) em Neurociências e Ciência de dados.
 
 • 🐍 Estou estudando Python e trazendo os dados pro meu dia-a-dia.
 
