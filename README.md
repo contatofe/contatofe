@@ -1,30 +1,45 @@
-# Fala aí galera 👋
-### Me chamo Nando Contato
+# Fala aí, galera 👋
 
-• 💻 Trabalho como Líder criativo de Direção de Arte em Publicidade.
+### Eu sou Nando Contato
 
-• 🧠 Sou graduado em Publicidade pela USP, mestrando em Neurociências pela USP, além de pós graduado (Lato Sensu) em Neurociências e Ciência de dados.
+**Diretor de Arte · Neurociência · Dados · Tecnologia**
 
-• 🐍 Estou estudando Python e trazendo os dados pro meu dia-a-dia.
+Trabalho com **Direção de Arte e criação publicitária**, unindo pensamento criativo, ciência do comportamento e tecnologia para desenvolver ideias, experiências e soluções.
 
-• 👀 Tenho interesse em modelos estatísticos, recomendação, análise de sentimentos, aprendizado de máquina, inteligência artificial e tudo o que me ajude a entender o comportamento humano.
+* 🎨 **Publicidade:** Diretor de Arte e líder criativo, trabalhando com campanhas, branding, direção visual e comunicação.
+* 🧠 **Neurociência:** graduado em Publicidade pela USP e mestrando em Neurociências pela USP, com pós-graduação em Neurociências.
+* 📊 **Dados:** pós-graduado em Ciência de Dados e interessado em estatística, análise exploratória e modelagem de dados.
+* 🐍 **Tecnologia:** estudando Python, Javascript e desenvolvendo projetos que conectam programação, dados, inteligência artificial e comportamento humano.
+
+### O que me interessa
+
+**Creative Technology · Data Science · Machine Learning · Artificial Intelligence · Cognitive Science · Human Behavior**
+
+Tenho especial interesse em usar **dados e tecnologia para entender pessoas**, desde comportamento e atenção até processos de decisão, curiosidade, aprendizagem e criatividade.
 
 ##
 
+## 📊 GitHub
+
 <div>
-  <a ref = https://github.com/contatofe>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=contatofe&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contatofe&hide_progress=false&card_width=300&layout=compact">
+  <a href="https://github.com/contatofe">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=contatofe&show_icons=true">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=contatofe&hide_progress=false&card_width=300&layout=compact">
+  </a>
 </div>
 
-<div style = "display: inline_block"><br>
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
-  <img align = "center" alt = "icon" height = "50" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
+##
+
+## 🛠️ Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Scikit-learn" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Matplotlib" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" alt="Plotly" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">
+  <img align="center" alt="TensorFlow" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="OpenCV" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
+  <img align="center" alt="Streamlit" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
 </div>
