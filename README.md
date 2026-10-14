@@ -23,7 +23,6 @@ Tenho especial interesse em usar **dados e tecnologia para entender pessoas**, d
 
 <div>
   <a href="https://github.com/contatofe">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=contatofe&show_icons=true">
     <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=contatofe&hide_progress=false&card_width=300&layout=compact">
   </a>
 </div>
